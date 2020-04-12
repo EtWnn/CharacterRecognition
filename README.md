@@ -1,5 +1,5 @@
 # CharacterRecognition
-Handwritten alhpanumeric character recognition using tensorflow
+Handwritten alhpanumeric character recognition using keras (tensorflow 1.15).
 
 ### Data sets
 
