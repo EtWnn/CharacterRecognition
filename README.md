@@ -1,5 +1,5 @@
 # CharacterRecognition
-Handwritten alhpanumeric character recognition using keras (tensorflow 1.15).
+Handwritten alhpanumeric character recognition using keras (tensorflow 2).
 
 ### Data sets
 
@@ -9,4 +9,4 @@ The first one is the famous MNIST (digits only), the second one is from this [ka
 
 ### Model
 
-The CNN model is trained in the 'Model_training.ipynb' notebook. There is a saved model in the folder 'Models' that achieved 98.5% test accuracy.
+The CNN model is trained in the 'Model_training.ipynb' notebook. There is a saved model in the folder 'Models' that achieved 98.3% test accuracy.
